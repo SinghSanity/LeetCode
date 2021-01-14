@@ -3,7 +3,7 @@
 I'm posting my solutions to LeetCode problems!
 
 #### I worked on some of these problems with the following people. Check them out!:
-- [Mvye](https://github.com/Mvye) 
+- [Mervyn Mathew](https://github.com/Mvye) (AKA Mvye)
 
 ## Problems that I've worked on (in order):
 
