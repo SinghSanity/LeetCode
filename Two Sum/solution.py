@@ -1,5 +1,5 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]: # type: ignore
         lst = []
         for idx, number in enumerate(nums):
             if target - number in nums[idx + 1:]:

@@ -1,3 +1,4 @@
+```
 from typing import List
 import collections
 import itertools
@@ -18,8 +19,10 @@ from collections import defaultdict
 from collections import OrderedDict
 from collections import deque
 from collections import Counter
+```
 
+Add the line: `# type: ignore` to ignore the type error
 
-
-
+```
 print(Solution().())
+```

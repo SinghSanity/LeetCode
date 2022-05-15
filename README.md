@@ -13,3 +13,4 @@ I'm posting my solutions to LeetCode problems!
 - Longest Common Prefix (With Mvye)
 - Valid Sudoku (With Mvye)
 - Two Sum
+- Longest Substring Without Repeating Characters
