@@ -12,3 +12,4 @@ I'm posting my solutions to LeetCode problems!
 - Generate Parentheses (With Mvye)
 - Longest Common Prefix (With Mvye)
 - Valid Sudoku (With Mvye)
+- Two Sum
