@@ -15,3 +15,4 @@ I'm posting my solutions to LeetCode problems!
 - [Two Sum](https://github.com/SinghSanity/LeetCode/tree/main/Two%20Sum)
 - [Longest Substring Without Repeating Characters](https://github.com/SinghSanity/LeetCode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters)
 - [Palindrom Number](https://github.com/SinghSanity/LeetCode/tree/main/Palindrome%20Number)
+- [Valid Parentheses](https://github.com/SinghSanity/LeetCode/tree/main/Valid%20Parentheses)
